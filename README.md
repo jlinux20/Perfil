@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [Juan Segundo Mamani Santander]
 ## 🔐 Network & Security Engineer
 
 ### 🛠 Stack Técnico
